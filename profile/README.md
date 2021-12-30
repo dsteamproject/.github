@@ -1,10 +1,10 @@
 # ✈️ DS Travel
 
 ## 🗂️ Contents
-- <b> <a href=#0"> 🔗 Team & Part </a></b>
-- <a href=#1"> 🔗 Web Introduce </a>
-- <a href=#2"> 🔗 Tech Stack </a>
-- <a href=#3"> 🔗 Result </a>
+- <a href="#0"> 🔗 Team & Part </a>
+- <a href="#1"> 🔗 Web Introduce </a>
+- <a href="#2"> 🔗 Tech Stack </a>
+- <a href="#3"> 🔗 Result </a>
 
 <h2 id="0"> 🙋‍♂️ Team & Part </h2>
 
