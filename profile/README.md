@@ -24,7 +24,8 @@
 
 
 <h2 id="2"> 🧰 Tech Stack </h2>
-`Java`,`Spring`,`Spring-boot`,`Vue.js`,`HTML`,`CSS3`,JavaScript`,`JPA`,`MyBatis`,`Oracle`,`H2-Database`
+
+`Java`, `Spring`, `Spring-boot`, `Vue.js`, `HTML`, `CSS3`, `JavaScript`, `JPA`, `MyBatis`, `Oracle`, `H2-Database`
 
 
 <h2 id="3"> 🖨️ Result </h2>
